@@ -44,7 +44,7 @@ gcc -o client client.c
 ```
 
 ### Run the Server
-Start the server on port `8080`:
+Start the server on port `8080` (it was defined in the program) :
 ```bash
 ./server
 ```
